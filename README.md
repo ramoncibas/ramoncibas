@@ -8,6 +8,12 @@
   <br>🎲 And ... i play guitar 🎸 and sudoku 🔢
 </p>
 
+<div align="center">
+  <a href="https://github.com/ThatianeDeboleto">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ramoncibas&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramoncibas&layout=compact&langs_count=7&theme=gotham"/>
+</div>
+
 <h2 align="left">I code with</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
