@@ -1,5 +1,5 @@
 <h1 align="left">Hey 👋  What's Up?</h1>
-<p align="left">My name is Ramon and i'm frontend developer from São Paulo, Brasil.</p>
+<p align="left">My name is Ramon, and I'm a Site Reliability Engineer at Blu, as well as a frontend development enthusiast from São Paulo, Brazil.</p>
 
 <h2 align="left">About me</h2>
 <p align="left">✨ Creating bugs since 2020
